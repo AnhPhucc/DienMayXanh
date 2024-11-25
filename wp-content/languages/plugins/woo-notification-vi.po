@@ -1,0 +1,985 @@
+# Translation of Plugins - Notification for WooCommerce | Boost Your Sales &#8211; Recent Sales Popup &#8211; Live Feed Sales &#8211; Upsells - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - Notification for WooCommerce | Boost Your Sales &#8211; Recent Sales Popup &#8211; Live Feed Sales &#8211; Upsells - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-25 08:44:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Notification for WooCommerce | Boost Your Sales &#8211; Recent Sales Popup &#8211; Live Feed Sales &#8211; Upsells - Development (trunk)\n"
+
+#. translators: %s: plugins_loaded
+#: includes/support.php:956
+msgid "VillaTheme_Require_Environment should not be run before the %s hook."
+msgstr "VillaTheme_Require_Environment không nên chạy trước %s hook."
+
+#: includes/support.php:802
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: includes/support.php:801
+msgid "Submit & Deactivate"
+msgstr "Gửi & Ngừng kích hoạt"
+
+#: includes/support.php:800
+msgid "I rather wouldn't say"
+msgstr "Tôi không muốn nói"
+
+#: includes/support.php:785
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Nếu bạn có thời gian, cho chúng tôi biết lý do bạn hủy kích hoạt plugin nhé:"
+
+#: includes/support.php:764
+msgid "Could you tell us a bit more?"
+msgstr "Bạn có thể chia sẻ thêm chút nữa?"
+
+#: includes/support.php:762
+msgid "Other"
+msgstr "Khác"
+
+#: includes/support.php:758
+msgid "What did you expect?"
+msgstr "Bạn mong đợi điều gì?"
+
+#: includes/support.php:756
+msgid "The plugin didn't work as expected"
+msgstr "Plugin không hoạt động như mong đợi"
+
+#: includes/support.php:750
+msgid "It's not what I was looking for"
+msgstr "Đây không phải plugin tôi đang tìm kiếm"
+
+#: includes/support.php:746
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Bạn có thể nói thêm về tính năng đang không hoạt động không?"
+
+#: includes/support.php:744
+msgid "The plugin is not working"
+msgstr "Plugin không hoạt động"
+
+#: includes/support.php:740
+msgid "Could you tell us more about that feature?"
+msgstr "Bạn có thể nói thêm về tính năng đó không?"
+
+#: includes/support.php:738
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Plugin rất tuyệt, nhưng tôi cần tính năng cụ thể mà bạn đang không có"
+
+#: includes/support.php:734
+msgid "Which plugin?"
+msgstr "Đó là plugin nào?"
+
+#: includes/support.php:732
+msgid "I found a better plugin"
+msgstr "Tôi tìm được plugin tốt hơn"
+
+#: includes/support.php:728
+msgid "Would you like us to assist you?"
+msgstr "Bạn có cần hỗ trợ không?"
+
+#: includes/support.php:726
+msgid "I couldn't understand how to make it work"
+msgstr "Tôi không hiểu cách plugin hoạt động"
+
+#: admin/admin.php:201
+msgid "Woo Notification"
+msgstr "Woo Notification"
+
+#: admin/admin.php:148
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/system.php:70
+msgid "Memory Limit"
+msgstr "Giới Hạn Bộ Nhớ"
+
+#: admin/system.php:65
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: admin/system.php:61
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: admin/system.php:19 admin/system.php:85 admin/system.php:86
+msgid "System Status"
+msgstr "Trạng Thái Hệ Thống"
+
+#: admin/report.php:23
+msgid "Notification for WooCommerce Reporting"
+msgstr "Báo Cáo Notification for WooCommerce"
+
+#: admin/settings.php:1905
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/settings.php:1892
+msgid "History time"
+msgstr "Thời hạn lưu"
+
+#: admin/settings.php:1883
+msgid "Save Logs"
+msgstr "Lưu Ghi Chép"
+
+#: admin/settings.php:1870
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr "Cho phép chỉ định trang nào được hiển thị thông báo bằng cách dùng thẻ điều kiện của WordPress. "
+
+#: admin/settings.php:1864
+msgid "Conditional Tags"
+msgstr "Thẻ Điều Kiện"
+
+#: admin/settings.php:1859
+msgid "Turn on is hidden notification on Cart page"
+msgstr "Bật để ẩn thông báo trên trang Giỏ hàng"
+
+#: admin/settings.php:1854
+msgid "Cart page"
+msgstr "Trang Giỏ hàng"
+
+#: admin/settings.php:1849
+msgid "Turn on is hidden notification on Checkout page"
+msgstr "Bật để ẩn thông báo trên trang Thanh toán"
+
+#: admin/settings.php:1844
+msgid "Checkout page"
+msgstr "Trang Thanh toán"
+
+#: admin/settings.php:1839
+msgid "Turn on is hidden notification on Home page"
+msgstr "Bật để ẩn thông báo trên Trang chủ"
+
+#: admin/settings.php:1834
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: admin/settings.php:1821
+msgid "Number will random from Min number to Max number"
+msgstr "Giá trị shortcode {number} sẽ lấy ngẫu nhiên từ Giá trị Tối Thiểu tới Giá trị Tối Đa"
+
+#: admin/settings.php:1813
+msgid "Max number"
+msgstr "Giá trị Tối Đa"
+
+#: admin/settings.php:1802
+msgid "Min Number"
+msgstr "Giá trị Tối Thiểu"
+
+#: admin/settings.php:1749
+msgid "This is {custom} shortcode content."
+msgstr "Đây là nội dung của shortcode {custom}."
+
+#: admin/settings.php:1740
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: admin/settings.php:1732
+msgid "Use custom shortcode"
+msgstr "Dùng shortcode tùy chỉnh"
+
+#: admin/settings.php:1728
+msgid "Time after purchase"
+msgstr "Thời gian sau khi mua"
+
+#: admin/settings.php:1724
+msgid "Product title with link"
+msgstr "Tiêu đề sản phẩm có liên kết"
+
+#: admin/settings.php:1720
+msgid "Product title"
+msgstr "Tiêu đề sản phẩm"
+
+#: admin/settings.php:1716
+msgid "Customer's country"
+msgstr "Quốc gia của khách hàng"
+
+#: admin/settings.php:1712
+msgid "Customer's state"
+msgstr "Bang của khách hàng"
+
+#: admin/settings.php:1708
+msgid "Customer's city"
+msgstr "Địa chỉ thành phố khách hàng"
+
+#: admin/settings.php:1704
+msgid "Customer's first name"
+msgstr "Tên khách hàng"
+
+#: admin/settings.php:1699
+msgid "Add New"
+msgstr "Thêm Mới"
+
+#: admin/settings.php:1692
+msgid "Remove"
+msgstr "Xóa"
+
+#: admin/settings.php:1622
+msgid "Message purchased"
+msgstr "Nội dung thông báo đã mua"
+
+#: admin/settings.php:1609
+msgid "Please select sound. Notification rings when show."
+msgstr "Vui lòng chọn âm thanh. Thông báo sẽ đổ chuông khi hiển thị. "
+
+#: admin/settings.php:1581
+msgid "Time your notification display."
+msgstr "Thời gian thông báo được hiển thị."
+
+#: admin/settings.php:1576
+msgid "Display time"
+msgstr "Thời gian hiển thị"
+
+#: admin/settings.php:1570
+msgid "When your site loads, notifications will show after this amount of time"
+msgstr "Khi tải trang, thông báo sẽ hiện sau khoảng thời gian này."
+
+#: admin/settings.php:1565
+msgid "Initial delay"
+msgstr "Thời gian trì hoãn"
+
+#: admin/settings.php:1560
+msgid "Time will be random from Initial delay time min to Initial time."
+msgstr "Lấy ngẫu nhiên giá trị từ thời gian trì hoãn tối thiểu tới thời gian khởi tạo."
+
+#: admin/settings.php:1555
+msgid "Minimum initial delay time"
+msgstr "Thời gian trì hoãn tối thiểu"
+
+#: admin/settings.php:1550
+msgid "Initial time will be random from 0 to current value."
+msgstr "Thời gian khởi tạo được lấy ngẫu nhiên từ 0 đến giá trị hiện tại."
+
+#: admin/settings.php:1545
+msgid "Initial time random"
+msgstr "Thời gian khởi tạo ngẫu nhiên"
+
+#: admin/settings.php:1540
+msgid "Number of notifications on a page."
+msgstr "Số lượng thông báo trên một trang."
+
+#: admin/settings.php:1534
+msgid "Notification per page"
+msgstr "Notification per page"
+
+#: admin/settings.php:1529
+msgid "Time to show next notification "
+msgstr "Thời gian hiện thông báo tiếp theo"
+
+#: admin/settings.php:1524
+msgid "Next time display"
+msgstr "Thời gian hiển thị tiếp theo"
+
+#: admin/settings.php:1515
+msgid "Loop"
+msgstr "Vòng lặp"
+
+#: admin/settings.php:1455
+msgid "Custom CSS"
+msgstr "CSS tùy chỉnh"
+
+#: admin/settings.php:1447
+msgid "rollOut"
+msgstr "rollOut"
+
+#: admin/settings.php:1443
+msgid "zoomOutUp"
+msgstr "zoomOutUp"
+
+#: admin/settings.php:1441
+msgid "zoomOutRight"
+msgstr "zoomOutRight"
+
+#: admin/settings.php:1439
+msgid "zoomOutLeft"
+msgstr "zoomOutLeft"
+
+#: admin/settings.php:1437
+msgid "zoomOutDown"
+msgstr "zoomOutDown"
+
+#: admin/settings.php:1435
+msgid "zoomOut"
+msgstr "zoomOut"
+
+#: admin/settings.php:1431
+msgid "slideOutRight"
+msgstr "slideOutRight"
+
+#: admin/settings.php:1429
+msgid "slideOutLeft"
+msgstr "slideOutLeft"
+
+#: admin/settings.php:1427
+msgid "slideOutDown"
+msgstr "slideOutDown"
+
+#: admin/settings.php:1425
+msgid "slideOutUp"
+msgstr "slideOutUp"
+
+#: admin/settings.php:1421
+msgid "rotateOutUpRight"
+msgstr "rotateOutUpRight"
+
+#: admin/settings.php:1419
+msgid "rotateOutUpLeft"
+msgstr "rotateOutUpLeft"
+
+#: admin/settings.php:1417
+msgid "rotateOutDownRight"
+msgstr "rotateOutDownRight"
+
+#: admin/settings.php:1415
+msgid "rotateOutDownLeft"
+msgstr "rotateOutDownLeft"
+
+#: admin/settings.php:1413
+msgid "rotateOut"
+msgstr "rotateOut"
+
+#: admin/settings.php:1409
+msgid "lightSpeedOut"
+msgstr "lightSpeedOut"
+
+#: admin/settings.php:1405
+msgid "flipOutY"
+msgstr "flipOutY"
+
+#: admin/settings.php:1403
+msgid "flipOutX"
+msgstr "flipOutX"
+
+#: admin/settings.php:1399
+msgid "fadeOutUpBig"
+msgstr "fadeOutUpBig"
+
+#: admin/settings.php:1397
+msgid "fadeOutUp"
+msgstr "fadeOutUp"
+
+#: admin/settings.php:1395
+msgid "fadeOutRightBig"
+msgstr "fadeOutRightBig"
+
+#: admin/settings.php:1393
+msgid "fadeOutRight"
+msgstr "fadeOutRight"
+
+#: admin/settings.php:1391
+msgid "fadeOutLeftBig"
+msgstr "fadeOutLeftBig"
+
+#: admin/settings.php:1389
+msgid "fadeOutLeft"
+msgstr "fadeOutLeft"
+
+#: admin/settings.php:1387
+msgid "fadeOutDownBig"
+msgstr "fadeOutDownBig"
+
+#: admin/settings.php:1385
+msgid "fadeOutDown"
+msgstr "fadeOutDown"
+
+#: admin/settings.php:1383
+msgid "fadeOut"
+msgstr "fadeOut"
+
+#: admin/settings.php:1379
+msgid "bounceOutUp"
+msgstr "bounceOutUp"
+
+#: admin/settings.php:1377
+msgid "bounceOutRight"
+msgstr "bounceOutRight"
+
+#: admin/settings.php:1375
+msgid "bounceOutLeft"
+msgstr "bounceOutLeft"
+
+#: admin/settings.php:1373
+msgid "bounceOutDown"
+msgstr "bounceOutDown"
+
+#: admin/settings.php:1371
+msgid "bounceOut"
+msgstr "bounceOut"
+
+#: admin/settings.php:1362
+msgid "Message hidden effect"
+msgstr "Hiệu ứng ẩn nội dung"
+
+#: admin/settings.php:1354
+msgid "rollIn"
+msgstr "rollIn"
+
+#: admin/settings.php:1350
+msgid "zoomInUp"
+msgstr "zoomInUp"
+
+#: admin/settings.php:1348
+msgid "zoomInRight"
+msgstr "zoomInRight"
+
+#: admin/settings.php:1346
+msgid "zoomInLeft"
+msgstr "zoomInLeft"
+
+#: admin/settings.php:1344
+msgid "zoomInDown"
+msgstr "zoomInDown"
+
+#: admin/settings.php:1342
+msgid "zoomIn"
+msgstr "zoomIn"
+
+#: admin/settings.php:1338
+msgid "slideInRight"
+msgstr "slideInRight"
+
+#: admin/settings.php:1336
+msgid "slideInLeft"
+msgstr "slideInLeft"
+
+#: admin/settings.php:1334
+msgid "slideInDown"
+msgstr "slideInDown"
+
+#: admin/settings.php:1332
+msgid "slideInUp"
+msgstr "slideInUp"
+
+#: admin/settings.php:1328
+msgid "rotateInUpRight"
+msgstr "rotateInUpRight"
+
+#: admin/settings.php:1326
+msgid "rotateInUpLeft"
+msgstr "rotateInUpLeft"
+
+#: admin/settings.php:1324
+msgid "rotateInDownRight"
+msgstr "rotateInDownRight"
+
+#: admin/settings.php:1322
+msgid "rotateInDownLeft"
+msgstr "rotateInDownLeft"
+
+#: admin/settings.php:1320
+msgid "rotateIn"
+msgstr "rotateIn"
+
+#: admin/settings.php:1316
+msgid "lightSpeedIn"
+msgstr "lightSpeedIn"
+
+#: admin/settings.php:1312
+msgid "flipInY"
+msgstr "flipInY"
+
+#: admin/settings.php:1310
+msgid "flipInX"
+msgstr "flipInX"
+
+#: admin/settings.php:1306
+msgid "fadeInUpBig"
+msgstr "fadeInUpBig"
+
+#: admin/settings.php:1304
+msgid "fadeInUp"
+msgstr "fadeInUp"
+
+#: admin/settings.php:1302
+msgid "fadeInRightBig"
+msgstr "fadeInRightBig"
+
+#: admin/settings.php:1300
+msgid "fadeInRight"
+msgstr "fadeInRight"
+
+#: admin/settings.php:1298
+msgid "fadeInLeftBig"
+msgstr "fadeInLeftBig"
+
+#: admin/settings.php:1296
+msgid "fadeInLeft"
+msgstr "fadeInLeft"
+
+#: admin/settings.php:1294
+msgid "fadeInDownBig"
+msgstr "fadeInDownBig"
+
+#: admin/settings.php:1292
+msgid "fadeInDown"
+msgstr "fadeInDown"
+
+#: admin/settings.php:1290
+msgid "fadeIn"
+msgstr "fadeIn"
+
+#: admin/settings.php:1286
+msgid "bounceInUp"
+msgstr "bounceInUp"
+
+#: admin/settings.php:1284
+msgid "bounceInRight"
+msgstr "bounceInRight"
+
+#: admin/settings.php:1282
+msgid "bounceInLeft"
+msgstr "bounceInLeft"
+
+#: admin/settings.php:1280
+msgid "bounceInDown"
+msgstr "bounceInDown"
+
+#: admin/settings.php:1278
+msgid "bounceIn"
+msgstr "bounceIn"
+
+#: admin/settings.php:1269
+msgid "Message display effect"
+msgstr "Hiệu ứng hiển thị nội dung"
+
+#: admin/settings.php:1262
+msgid "Open link on new tab."
+msgstr "Mở liên kết trong thẻ mới."
+
+#: admin/settings.php:1251
+msgid "Link target"
+msgstr "Mục tiêu liên kết"
+
+#: admin/settings.php:1245
+msgid "When click image, you will redirect to product single page."
+msgstr "Chuyển hướng đến trang sản phẩm khi ấn vào ảnh."
+
+#: admin/settings.php:1234
+msgid "Image redirect"
+msgstr "Chuyển hướng ảnh"
+
+#: admin/settings.php:1221
+msgid "Close icon color"
+msgstr "Màu biểu tượng Đóng"
+
+#: admin/settings.php:1206
+msgid "Time close"
+msgstr "Thời gian đóng"
+
+#: admin/settings.php:1191
+msgid "Show Close Icon"
+msgstr "Hiển thị biểu tượng Đóng"
+
+#: admin/settings.php:1185
+msgid "This option is used only if you do not select any background templates"
+msgstr "Tùy chọn này chỉ được sử dụng nếu không có mẫu nền nào được chọn"
+
+#: admin/settings.php:1182
+msgid "px"
+msgstr "px"
+
+#: admin/settings.php:1173
+msgid "Custom Rounded corner"
+msgstr "Tùy chỉnh góc tròn"
+
+#: admin/settings.php:1168
+msgid "Message will be rounded and product image is round instead of square"
+msgstr "Nội dung thông báo sẽ được làm tròn và ảnh sản phẩm hình tròn thay vì hình vuông"
+
+#: admin/settings.php:1157
+msgid "Rounded corner style"
+msgstr "Kiểu làm tròn góc"
+
+#: admin/settings.php:1147
+msgid "Top right"
+msgstr "Trên phải"
+
+#: admin/settings.php:1135
+msgid "Top left"
+msgstr "Trên trái"
+
+#: admin/settings.php:1123
+msgid "Bottom right"
+msgstr "Dưới phải"
+
+#: admin/settings.php:1110
+msgid "Bottom left"
+msgstr "Dưới trái"
+
+#: admin/settings.php:1096
+msgid "Position"
+msgstr "Vị trí"
+
+#: admin/settings.php:1090
+msgid "Right"
+msgstr "Phải"
+
+#: admin/settings.php:1088
+msgid "Left"
+msgstr "Trái"
+
+#: admin/settings.php:1082
+msgid "Image Position"
+msgstr "Vị trí ảnh"
+
+#: admin/settings.php:1055
+msgid "None"
+msgstr "Không có"
+
+#: admin/settings.php:1045
+msgid "Templates"
+msgstr "Mẫu"
+
+#: admin/settings.php:1040
+msgid "Gap between product image and notification's border"
+msgstr "Khoảng cách giữa ảnh sản phẩm và viền thông báo"
+
+#: admin/settings.php:1034
+msgid "Image padding"
+msgstr "Lề trong (Padding) ảnh"
+
+#: admin/settings.php:1023
+msgid "Background color"
+msgstr "Màu nền"
+
+#: admin/settings.php:1011
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: admin/settings.php:1000
+msgid "Highlight color"
+msgstr "Màu nổi bật"
+
+#: admin/settings.php:986
+msgid "Show variation instead of product variable."
+msgstr "Hiện biến thể thay vì sản phẩm biến thể."
+
+#: admin/settings.php:976
+msgid "Show variation"
+msgstr "Hiện biến thể"
+
+#: admin/settings.php:971
+msgid "In product single page, Notification can only display current product or other products in the same category."
+msgstr "Trên trang sản phẩm, thông báo chỉ hiển thị sản phẩm hiện tại hoặc các sản phẩm trong cùng danh mục."
+
+#: admin/settings.php:968
+msgid "Products in the same category"
+msgstr "Sản phẩm trong cùng danh mục"
+
+#: admin/settings.php:966
+msgid "Current product"
+msgstr "Sản phẩm hiện tại"
+
+#: admin/settings.php:959
+msgid "Notification show"
+msgstr "Thông báo hiển thị"
+
+#: admin/settings.php:954
+msgid "Notification will only display current product in product detail page that they are viewing."
+msgstr "Thông báo chỉ hiển thị với sản phẩm hiện tại trên trang chi tiết sản phẩm mà khách hàng đang xem."
+
+#: admin/settings.php:944
+msgid "Run single product"
+msgstr "Sản phẩm đơn lẻ"
+
+#: admin/settings.php:930
+msgid "Load popup will not use ajax. Your site will be load faster. It creates cache. It is not working with Get product from Billing feature and options of Product detail tab."
+msgstr "Tải popup không dùng đến ajax. Trang web được tải nhanh hơn và tạo bộ nhớ đệm. Hiện tại không hoạt động với tính năng Lấy sản phẩm từ Thanh toán và các tùy chọn trong thẻ Chi tiết sản phẩm."
+
+#: admin/settings.php:920
+msgid "Non Ajax"
+msgstr "Không Ajax"
+
+#: admin/settings.php:915
+msgid "Image size will get form your WordPress site."
+msgstr "Kích thước ảnh sẽ được lấy từ website WordPress."
+
+#: admin/settings.php:870
+msgid "Product image size"
+msgstr "Kích cỡ ảnh sản phẩm"
+
+#: admin/settings.php:822
+msgid "Virtual country name what will show on notification."
+msgstr "Tên quốc gia ảo được hiển thị trên thông báo."
+
+#: admin/settings.php:816
+msgid "Virtual Country"
+msgstr "Quốc Gia Ảo"
+
+#: admin/settings.php:769
+msgid "Virtual city name what will show on notification. Each city name on a line."
+msgstr "Tên thành phố ảo được hiển thị trên thông báo. Mỗi tên trên một dòng."
+
+#: admin/settings.php:761
+msgid "Virtual City"
+msgstr "Thành Phố Ảo"
+
+#: admin/settings.php:756
+msgid "You can use auto detect address or make virtual address of customer."
+msgstr "Có thể tự động tìm kiếm địa chỉ hoặc thêm địa chỉ khách hàng ảo."
+
+#: admin/settings.php:753
+msgid "Virtual"
+msgstr "Ảo"
+
+#: admin/settings.php:751
+msgid "Auto Detect"
+msgstr "Tự Động Tìm Kiếm"
+
+#: admin/settings.php:746
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: admin/settings.php:741
+msgid "Time will auto get random in this time threshold ago."
+msgstr "Tự động lấy khoảng thời gian khách mua hàng trước bao lâu trong ngưỡng này. "
+
+#: admin/settings.php:731
+msgid "Virtual Time"
+msgstr "Thời gian Ảo"
+
+#: admin/settings.php:684
+msgid "Virtual first name what will show on notification. Each first name on a line."
+msgstr "Tên khách hàng ảo được hiển thị trên thông báo. Mỗi tên trên một dòng."
+
+#: admin/settings.php:675
+msgid "Virtual First Name"
+msgstr "Tên Ảo"
+
+#: admin/settings.php:668
+msgid "You only select 2 products. Please upgrade to unlock unlimited."
+msgstr "Chỉ được chọn 2 sản phẩm. Vui lòng nâng cấp để mở khóa không giới hạn sản phẩm."
+
+#: admin/settings.php:593
+msgid "Order Status"
+msgstr "Trạng Thái Đơn Hàng"
+
+#: admin/settings.php:588
+msgid "Products in this recently time will get from order.  "
+msgstr "Sản phẩm trong khoảng thời gian này sẽ lấy từ đơn hàng. "
+
+#: admin/settings.php:584
+msgid "Minutes"
+msgstr "Phút"
+
+#: admin/settings.php:582
+msgid "Days"
+msgstr "Ngày"
+
+#: admin/settings.php:580
+msgid "Hours"
+msgstr "Giờ"
+
+#: admin/settings.php:567
+msgid "Order Time"
+msgstr "Thời Gian Đặt Hàng"
+
+#: admin/settings.php:562
+msgid "Working with  External/Affiliate product. Product link is product URL."
+msgstr "Hoạt động với sản phẩm Bên ngoài/Liên kết. Liên kết của sản phẩm là URL của sản phẩm."
+
+#: admin/settings.php:552
+msgid "External link"
+msgstr "Liên kết bên ngoài"
+
+#: admin/settings.php:547
+msgid "These products will not show on notification."
+msgstr "Những sản phẩm này sẽ không hiện trong thông báo."
+
+#: admin/settings.php:490
+msgid "Product quantity will be got in list latest products."
+msgstr "Số lượng sản phẩm sẽ được lấy từ danh sách sản phẩm mới nhât."
+
+#: admin/settings.php:484
+msgid "Product limit"
+msgstr "Giới hạn sản phẩm"
+
+#: admin/settings.php:479
+msgid "These products will not display on notification."
+msgstr "Những sản phẩm này sẽ không được hiển thị trong thông báo."
+
+#: admin/settings.php:436 admin/settings.php:502 admin/settings.php:626
+msgid "Please select products"
+msgstr "Vui lòng chọn sản phẩm"
+
+#: admin/settings.php:429 admin/settings.php:495
+msgid "Exclude Products"
+msgstr "Loại Trừ Sản Phẩm"
+
+#: admin/report.php:24 admin/settings.php:424 admin/settings.php:488
+#: admin/settings.php:670 admin/settings.php:1519 admin/settings.php:1528
+#: admin/settings.php:1538 admin/settings.php:1549 admin/settings.php:1559
+#: admin/settings.php:1569 admin/settings.php:1580 admin/settings.php:1598
+#: admin/settings.php:1607 admin/settings.php:1838 admin/settings.php:1848
+#: admin/settings.php:1858 admin/settings.php:1868 admin/settings.php:1887
+#: admin/settings.php:1896
+msgid "Update This Feature"
+msgstr "Cập Nhật Tính Năng Này"
+
+#: admin/settings.php:422
+msgid "You only select 2 categories. Please upgrade to unlock unlimited."
+msgstr "Chỉ được chọn 2 danh mục sản phẩm. Vui lòng nâng cấp để mở khóa không giới hạn danh mục."
+
+#: admin/settings.php:404
+msgid "Please select category"
+msgstr "Vui lòng chọn danh mục"
+
+#: admin/settings.php:390
+msgid "Turn on to show out-of-stock products on notifications."
+msgstr "Bật để hiện sản phẩm hết hàng trên thông báo."
+
+#: admin/settings.php:380
+msgid "Out-of-stock products"
+msgstr "Sản phẩm hết hàng"
+
+#: admin/settings.php:375
+msgid "You can arrange product order or special product which you want to up-sell."
+msgstr "Bạn có thể sắp xếp thứ tự sản phẩm hoặc sản phẩm đặc biệt mà bạn muốn bán thêm."
+
+#: admin/settings.php:372
+msgid "Recent Viewed Products"
+msgstr "Sản Phẩm Được Xem Gần Đây"
+
+#: admin/settings.php:370 admin/settings.php:396
+msgid "Select Categories"
+msgstr "Chọn Danh Mục"
+
+#: admin/settings.php:368
+msgid "Latest Products"
+msgstr "Sản Phẩm Mới Nhất"
+
+#: admin/settings.php:366 admin/settings.php:618
+msgid "Select Products"
+msgstr "Chọn Sản Phẩm"
+
+#: admin/settings.php:364
+msgid "Get from Billing"
+msgstr "Lấy từ Thanh Toán"
+
+#: admin/settings.php:358
+msgid "Show Products"
+msgstr "Hiện Sản Phẩm"
+
+#: admin/settings.php:344
+msgid "Notification will show on mobile and responsive."
+msgstr "Thông báo được hiển thị trên điện thoại."
+
+#: admin/settings.php:333
+msgid "Mobile"
+msgstr "Điện thoại"
+
+#: admin/settings.php:317 admin/settings.php:1594
+msgid "Enable"
+msgstr "Bật"
+
+#: admin/report.php:33 admin/report.php:34 admin/settings.php:307
+msgid "Report"
+msgstr "Báo cáo"
+
+#: admin/settings.php:304
+msgid "Assign"
+msgstr "Chỉ định"
+
+#: admin/settings.php:301 admin/settings.php:1603
+msgid "Sound"
+msgstr "Âm thanh"
+
+#: admin/settings.php:298
+msgid "Time"
+msgstr "Thời gian"
+
+#: admin/settings.php:295
+msgid "Product Detail"
+msgstr "Chi tiết sản phẩm"
+
+#: admin/settings.php:292
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: admin/settings.php:289
+msgid "Messages"
+msgstr "Nội dung thông báo"
+
+#: admin/settings.php:286
+msgid "Design"
+msgstr "Thiết kế"
+
+#: admin/settings.php:283
+msgid "General"
+msgstr "Chung"
+
+#: admin/settings.php:277
+msgid "Notification for WooCommerce Settings"
+msgstr "Cài Đặt Notification for WooCommerce"
+
+#: frontend/notify.php:1120
+msgid "secs"
+msgstr "giây"
+
+#: frontend/notify.php:1006 frontend/notify.php:1113
+msgid "ago"
+msgstr "trước đó"
+
+#: frontend/notify.php:1006 frontend/notify.php:1112
+msgid "About"
+msgstr "Về"
+
+#: frontend/notify.php:898 frontend/notify.php:1121
+msgid "a few seconds"
+msgstr "vài giây"
+
+#: frontend/notify.php:895
+msgid "seconds"
+msgstr "giây"
+
+#: frontend/notify.php:892 frontend/notify.php:1118
+msgid "minute"
+msgstr "phút"
+
+#: frontend/notify.php:890 frontend/notify.php:1119
+msgid "minutes"
+msgstr "phút"
+
+#: frontend/notify.php:883 frontend/notify.php:1116
+msgid "hour"
+msgstr "giờ"
+
+#: admin/settings.php:738 admin/settings.php:1214 frontend/notify.php:881
+#: frontend/notify.php:1117
+msgid "hours"
+msgstr "giờ"
+
+#: frontend/notify.php:874 frontend/notify.php:1114
+msgid "day"
+msgstr "ngày"
+
+#: frontend/notify.php:872 frontend/notify.php:1115
+msgid "days"
+msgstr "ngày"
+
+#. Author URI of the plugin
+#: woo-notification.php
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#. Author of the plugin
+#: woo-notification.php
+msgid "Andy Ha (villatheme.com)"
+msgstr "Andy Ha (villatheme.com)"
+
+#. Description of the plugin
+#: woo-notification.php
+msgid "Increase conversion rate by highlighting other customers that have bought products."
+msgstr "Khuyến khích mua hàng bằng cách làm nổi bật những khách hàng đã mua sản phẩm."
+
+#. Plugin URI of the plugin
+#: woo-notification.php
+msgid "https://villatheme.com/extensions/woocommerce-notification-boost-sales/"
+msgstr "https://villatheme.com/extensions/woocommerce-notification-boost-sales/"
+
+#. Plugin Name of the plugin
+#: woo-notification.php admin/admin.php:201
+msgid "Notification for WooCommerce"
+msgstr "Notification for WooCommerce"
